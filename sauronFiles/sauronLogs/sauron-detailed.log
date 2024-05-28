@@ -1,0 +1,238 @@
+May 17, 2024 3:16:15 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.platform.grid.TestNgAlterSuiteListener, State=Enabled]
+May 17, 2024 3:16:15 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.platform.grid.SeleniumGridListener, State=Enabled]
+May 17, 2024 3:16:15 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.reports.runtimereport.RuntimeReporterListener, State=Enabled]
+May 17, 2024 3:16:15 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY
+May 17, 2024 3:16:15 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY {}
+May 17, 2024 3:16:15 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 3:16:15 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 3:16:15 PM com.qapitol.sauron.internal.reports.runtimereport.JsonRuntimeReporterHelper <init>
+FINER: Working directory created successfully: true
+May 17, 2024 3:16:15 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.platform.asserts.SauronAssertsListener, State=Enabled]
+May 17, 2024 3:16:15 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.reports.html.HtmlReporterListener, State=Disabled]
+May 17, 2024 3:16:16 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.reports.excelreport.ExcelReport, State=Disabled]
+May 17, 2024 3:16:16 PM com.qapitol.sauron.internal.platform.grid.TestNgAlterSuiteListener alter
+INFO: TestNgAlterSuiteListener Entered
+May 17, 2024 3:16:16 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY [Suite: "Default Suite"   org.testng.xml.XmlTest@b6c2f535 ]
+May 17, 2024 3:16:16 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY {}
+May 17, 2024 3:16:16 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 3:16:16 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 3:16:16 PM com.qapitol.sauron.platform.utilities.FileAssistant loadFile
+FINER: ENTRY locators\facebooktests.yaml
+May 17, 2024 3:36:07 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.platform.grid.TestNgAlterSuiteListener, State=Enabled]
+May 17, 2024 3:36:08 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.platform.grid.SeleniumGridListener, State=Enabled]
+May 17, 2024 3:36:08 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.reports.runtimereport.RuntimeReporterListener, State=Enabled]
+May 17, 2024 3:36:08 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY
+May 17, 2024 3:36:08 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY {}
+May 17, 2024 3:36:08 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 3:36:08 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 3:36:08 PM com.qapitol.sauron.internal.reports.runtimereport.JsonRuntimeReporterHelper <init>
+FINER: Working directory created successfully: false
+May 17, 2024 3:36:08 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.platform.asserts.SauronAssertsListener, State=Enabled]
+May 17, 2024 3:36:08 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.reports.html.HtmlReporterListener, State=Disabled]
+May 17, 2024 3:36:08 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.reports.excelreport.ExcelReport, State=Disabled]
+May 17, 2024 3:36:08 PM com.qapitol.sauron.internal.platform.grid.TestNgAlterSuiteListener alter
+INFO: TestNgAlterSuiteListener Entered
+May 17, 2024 3:36:08 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY [Suite: "Default Suite"   org.testng.xml.XmlTest@bbccc8d9 ]
+May 17, 2024 3:36:08 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY {}
+May 17, 2024 3:36:08 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 3:36:08 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 3:36:09 PM com.qapitol.sauron.platform.utilities.FileAssistant loadFile
+FINER: ENTRY locators\facebooktests.yaml
+May 17, 2024 3:38:12 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.platform.grid.TestNgAlterSuiteListener, State=Enabled]
+May 17, 2024 3:38:12 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.platform.grid.SeleniumGridListener, State=Enabled]
+May 17, 2024 3:38:13 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.reports.runtimereport.RuntimeReporterListener, State=Enabled]
+May 17, 2024 3:38:13 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY
+May 17, 2024 3:38:13 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY {}
+May 17, 2024 3:38:13 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 3:38:13 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 3:38:13 PM com.qapitol.sauron.internal.reports.runtimereport.JsonRuntimeReporterHelper <init>
+FINER: Working directory created successfully: false
+May 17, 2024 3:38:13 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.platform.asserts.SauronAssertsListener, State=Enabled]
+May 17, 2024 3:38:13 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.reports.html.HtmlReporterListener, State=Disabled]
+May 17, 2024 3:38:13 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.reports.excelreport.ExcelReport, State=Disabled]
+May 17, 2024 3:38:13 PM com.qapitol.sauron.internal.platform.grid.TestNgAlterSuiteListener alter
+INFO: TestNgAlterSuiteListener Entered
+May 17, 2024 3:38:13 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY [Suite: "Default Suite"   org.testng.xml.XmlTest@6f2c10cd ]
+May 17, 2024 3:38:13 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY {}
+May 17, 2024 3:38:13 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 3:38:13 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 3:38:13 PM com.qapitol.sauron.platform.utilities.FileAssistant loadFile
+FINER: ENTRY locators\facebooktests.yaml
+May 17, 2024 3:57:51 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.platform.grid.TestNgAlterSuiteListener, State=Enabled]
+May 17, 2024 3:57:51 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.platform.grid.SeleniumGridListener, State=Enabled]
+May 17, 2024 3:57:51 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.reports.runtimereport.RuntimeReporterListener, State=Enabled]
+May 17, 2024 3:57:51 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY
+May 17, 2024 3:57:51 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY {}
+May 17, 2024 3:57:51 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 3:57:51 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 3:57:51 PM com.qapitol.sauron.internal.reports.runtimereport.JsonRuntimeReporterHelper <init>
+FINER: Working directory created successfully: false
+May 17, 2024 3:57:51 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.platform.asserts.SauronAssertsListener, State=Enabled]
+May 17, 2024 3:57:51 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.reports.html.HtmlReporterListener, State=Disabled]
+May 17, 2024 3:57:51 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.reports.excelreport.ExcelReport, State=Disabled]
+May 17, 2024 3:57:52 PM com.qapitol.sauron.internal.platform.grid.TestNgAlterSuiteListener alter
+INFO: TestNgAlterSuiteListener Entered
+May 17, 2024 3:57:52 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY [Suite: "Default Suite"   org.testng.xml.XmlTest@a626c6f5 ]
+May 17, 2024 3:57:52 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY {}
+May 17, 2024 3:57:52 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 3:57:52 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 3:57:52 PM com.qapitol.sauron.platform.utilities.FileAssistant loadFile
+FINER: ENTRY locators\facebooktests.yaml
+May 17, 2024 4:46:01 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.platform.grid.TestNgAlterSuiteListener, State=Enabled]
+May 17, 2024 4:46:01 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.platform.grid.SeleniumGridListener, State=Enabled]
+May 17, 2024 4:46:01 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.reports.runtimereport.RuntimeReporterListener, State=Enabled]
+May 17, 2024 4:46:01 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY
+May 17, 2024 4:46:01 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY {}
+May 17, 2024 4:46:01 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 4:46:01 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 4:46:01 PM com.qapitol.sauron.internal.reports.runtimereport.JsonRuntimeReporterHelper <init>
+FINER: Working directory created successfully: false
+May 17, 2024 4:46:01 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.platform.asserts.SauronAssertsListener, State=Enabled]
+May 17, 2024 4:46:01 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.reports.html.HtmlReporterListener, State=Disabled]
+May 17, 2024 4:46:01 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.reports.excelreport.ExcelReport, State=Disabled]
+May 17, 2024 4:46:02 PM com.qapitol.sauron.internal.platform.grid.TestNgAlterSuiteListener alter
+INFO: TestNgAlterSuiteListener Entered
+May 17, 2024 4:46:02 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY [Suite: "NGO Web Test2"   org.testng.xml.XmlTest@aa5af0cc ]
+May 17, 2024 4:46:02 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY {clientType=web, browser=chrome, targetClient=web, logEnable=true, browserRunHeadless=false, runLocally=true}
+May 17, 2024 4:46:02 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 4:46:02 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 4:46:02 PM com.qapitol.sauron.platform.utilities.FileAssistant loadFile
+FINER: ENTRY locators\facebooktests.yaml
+May 17, 2024 4:54:06 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.platform.grid.TestNgAlterSuiteListener, State=Enabled]
+May 17, 2024 4:54:06 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.platform.grid.SeleniumGridListener, State=Enabled]
+May 17, 2024 4:54:06 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.reports.runtimereport.RuntimeReporterListener, State=Enabled]
+May 17, 2024 4:54:06 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY
+May 17, 2024 4:54:06 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY {}
+May 17, 2024 4:54:06 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 4:54:06 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 4:54:06 PM com.qapitol.sauron.internal.reports.runtimereport.JsonRuntimeReporterHelper <init>
+FINER: Working directory created successfully: false
+May 17, 2024 4:54:06 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.platform.asserts.SauronAssertsListener, State=Enabled]
+May 17, 2024 4:54:06 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.reports.html.HtmlReporterListener, State=Disabled]
+May 17, 2024 4:54:06 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.reports.excelreport.ExcelReport, State=Disabled]
+May 17, 2024 4:54:07 PM com.qapitol.sauron.internal.platform.grid.TestNgAlterSuiteListener alter
+INFO: TestNgAlterSuiteListener Entered
+May 17, 2024 4:54:07 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY [Suite: "NGO Web Test2"   org.testng.xml.XmlTest@aa439d60 ]
+May 17, 2024 4:54:07 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY {clientType=web, browser=chrome, targetClient=web, logEnable=true, browserRunHeadless=false, runLocally=true}
+May 17, 2024 4:54:07 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 4:54:07 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 4:54:07 PM com.qapitol.sauron.platform.utilities.FileAssistant loadFile
+FINER: ENTRY locators\facebooktests.yaml
+May 17, 2024 5:00:18 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.platform.grid.TestNgAlterSuiteListener, State=Enabled]
+May 17, 2024 5:00:18 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.platform.grid.SeleniumGridListener, State=Enabled]
+May 17, 2024 5:00:18 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.reports.runtimereport.RuntimeReporterListener, State=Enabled]
+May 17, 2024 5:00:18 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY
+May 17, 2024 5:00:18 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY {}
+May 17, 2024 5:00:18 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 5:00:18 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 5:00:18 PM com.qapitol.sauron.internal.reports.runtimereport.JsonRuntimeReporterHelper <init>
+FINER: Working directory created successfully: false
+May 17, 2024 5:00:18 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.platform.asserts.SauronAssertsListener, State=Enabled]
+May 17, 2024 5:00:18 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.reports.html.HtmlReporterListener, State=Disabled]
+May 17, 2024 5:00:18 PM com.qapitol.sauron.configuration.ListenerManager registerListener
+FINER: ENTRY Listener Information [Listener:com.qapitol.sauron.internal.reports.excelreport.ExcelReport, State=Disabled]
+May 17, 2024 5:00:19 PM com.qapitol.sauron.internal.platform.grid.TestNgAlterSuiteListener alter
+INFO: TestNgAlterSuiteListener Entered
+May 17, 2024 5:00:19 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY [Suite: "NGO Web Test2"   org.testng.xml.XmlTest@856d082 ]
+May 17, 2024 5:00:19 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: ENTRY {clientType=web, browser=chrome, targetClient=web, logEnable=true, browserRunHeadless=false, runLocally=true}
+May 17, 2024 5:00:19 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 5:00:19 PM com.qapitol.sauron.configuration.Config initConfig
+FINER: RETURN
+May 17, 2024 5:00:19 PM com.qapitol.sauron.platform.utilities.FileAssistant loadFile
+FINER: ENTRY locators\facebooktests.yaml

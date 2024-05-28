@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="1" name="NGO Web Test2"
+       skipfailedinvocationcounts="false" junit="false" data-provider-thread-count="2" annotations="JDK">
+    <parameter name="runLocally" value="true"/>
+    <parameter name="clientType" value="web"/>
+    <parameter name="targetClient" value="web"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="browserRunHeadless" value="false"/>
+    <parameter name="logEnable" value="true"/>
+
+    <test name="My All Test">
+        <parameter name="browser" value="chrome"></parameter>
+        <parameter name="executionTimeout" value="60000"/>
+        <classes>
+            <class name="com.qapitol.facebook.FaceBookTests"/>
+        </classes>
+    </test>
+</suite>

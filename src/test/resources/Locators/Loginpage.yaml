@@ -1,0 +1,13 @@
+#defaultClient: web
+#defaultLocale: en_US
+elements:
+  email:
+     en_US:
+       web: //input[@name="email"]
+  password:
+     en_US:
+       web: //input[@id="pass"]
+  loginInButton:
+     en_US:
+       web: //button[@name="login"]
+
